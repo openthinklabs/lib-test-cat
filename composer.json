@@ -1,5 +1,5 @@
 {
-	"name": "oat-sa/lib-test-cat",
+	"name": "openthinklabs/lib-test-cat",
 	"description": "Library to connect the taoTests engine to a computer adaptive test",
 	"type": "library",
 	"authors": [
